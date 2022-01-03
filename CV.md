@@ -1,14 +1,9 @@
 #   IRYNA SAFONAVA
 
-====================================================================================
-
 ##  Contact Info
-
 
 - Mobile phone: +375290000001
 - Contact email: iryna.safonava@gmail.com
-- RS-Scholl nickname: rs school
-
 
 ##  Work experience
 
@@ -21,11 +16,11 @@
 - 2018 - 2019: IT Support assistant.
 - 2012 - 2017: Sales manager.
 
-##  Education
+##  Education
 
-- 2007 - 2012: Gomel state University, faculty of global economy
+- 2007 - 2012: Gomel state University, faculty of global economy, speciality: *International economic affairs of an enterprise*
 
-##  Skill list
+##  Skill list
 
 * Foreign languages:
     - English B2
