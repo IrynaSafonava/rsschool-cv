@@ -9,11 +9,11 @@
 ## Work experience
 
 * 2020 - present: Software testing engineer.
-+ Responsibilities: 
-1. Test-cases and check-lists creation;
-2. Bug tracking;
-3. Functional testing of web-applications; API testing; Cross-browser testing.
-4. Communication with BAs, developers on current issues.
+    + Responsibilities: 
+        1. Test-cases and check-lists creation;
+        2. Bug tracking;
+        3. Functional testing of web-applications; API testing; Cross-browser testing.
+        4. Communication with BAs, developers on current issues.
 * 2018 - 2019: IT Support assistant.
 * 2012 - 2017: Sales manager.
 
@@ -24,7 +24,7 @@
 ## Skill list
 
 * Foreign languages:
-+ English B2
-+ French A2
+    + English B2
+    + French A2
 
 * Novice in Java, SQL, html, css, JavaScript
