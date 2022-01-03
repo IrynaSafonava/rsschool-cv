@@ -23,7 +23,7 @@
 ##  Skill list
 
 * Foreign languages:
-    - English B2
+    - English B2+
     - French A2
 
 * Novice in Java, SQL, html, css, JavaScript
