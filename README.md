@@ -1,2 +1,4 @@
 # rsschool-cv
-rsschool-stage0
+
+[link to CV]
+https://irynasafonava.github.io/rsschool-cv
