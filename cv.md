@@ -26,4 +26,4 @@
     - English B2+
     - French A2
 
-* Novice in Java, SQL, html, css, JavaScript
+* Novice in Java, SQL, html, css, JavaScript, Selenium WebDriver
