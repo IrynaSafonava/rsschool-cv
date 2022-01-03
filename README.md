@@ -2,4 +2,4 @@
 
 rsschool stage 0 project
 
-*    [CV link] (https://IrynaSafonava.github.io/rsschool-cv/cv)
+*    [CV link] (https://IrynaSafonava.github.io/rsschool-cv/CV)
