@@ -1,4 +1,4 @@
 # rsschool-cv
 
 [link to CV]
-https://irynasafonava.github.io/rsschool-cv/cv
+https://irynasafonava.github.io/rsschool-cv
