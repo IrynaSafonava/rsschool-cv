@@ -1,12 +1,16 @@
-# IRYNA SAFONAVA
+#   IRYNA SAFONAVA
 
-## Contact Info
+====================================================================================
+
+##  Contact Info
+
 
 - Mobile phone: +375290000001
 - Contact email: iryna.safonava@gmail.com
 - RS-Scholl nickname: rs school
 
-## Work experience
+
+##  Work experience
 
 - 2020 - present: Software testing engineer.
     + Responsibilities: 
@@ -17,11 +21,11 @@
 - 2018 - 2019: IT Support assistant.
 - 2012 - 2017: Sales manager.
 
-## Education
+##  Education
 
 - 2007 - 2012: Gomel state University, faculty of global economy
 
-## Skill list
+##  Skill list
 
 * Foreign languages:
     - English B2
