@@ -1,0 +1,12 @@
+.nav-panel li {
+    display: inline;
+  }
+ h1 {
+     color: rgb(4, 59, 29);
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif     
+ } 
+
+ h2{
+     color: rgb(12, 141, 33);
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ }
